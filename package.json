@@ -1,0 +1,23 @@
+{
+  "name": "sit725_2025_t2_practice3",
+  "version": "1.0.0",
+  "description": "week3",
+  "homepage": "https://github.com/Tejasri7136/sit725_2025_t2_practice3#readme",
+  "bugs": {
+    "url": "https://github.com/Tejasri7136/sit725_2025_t2_practice3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejasri7136/sit725_2025_t2_practice3.git"
+  },
+  "license": "MIT",
+  "author": "Tejasri Kanneganti",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
